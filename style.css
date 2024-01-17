@@ -1,0 +1,21 @@
+.green-lemon{
+    color: #DAFF01;
+}
+
+.facilidades__icone{
+    font-size: 4.5rem;
+}
+
+.facilidades__texto{
+    font-size: 0.75rem;
+}
+
+.posicao{
+    top: 40%;
+}
+
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
