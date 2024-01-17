@@ -29,7 +29,7 @@ O site meteora é um projeto de uma loja de roupas virtual, criado para a práti
 Realizado através do curso de Bootstrap da Alura.
 <br>
 <br>
-Acesse o site em [Live](https://andeilso.github.io/nlw-10-copa/) no Vercel.
+Acesse o site em [Live](https://meteora-alura-psi.vercel.app/) no Vercel.
 
 
 
